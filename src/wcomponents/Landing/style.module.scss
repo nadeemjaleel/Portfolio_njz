@@ -1,0 +1,28 @@
+.body{
+  max-width: 1400px;
+  width: 100%;
+  top:50%;
+  left: 40%;
+  margin-bottom: 100px;
+  font-size: 60px;
+  font-weight: 900;
+}
+.container {
+  background-color: #fff;
+  color: #000;
+  font-family: 'DM Sans', sans-serif;
+  padding: 2rem;
+}
+
+.header {
+  text-align: left;
+  margin-top: 10%;
+  margin-left: 250px;
+  margin-bottom: 2rem;
+
+  h1 {
+    font-size: 6rem;
+    font-weight: 400;
+    margin: 0;
+  }
+}
